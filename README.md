@@ -20,7 +20,7 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Higher_lower](https://github.com/Sookchand/Higher-Lower-Game/assets/34344439/0156b336-fda3-4c3a-b314-304283fd5d78)
 
 
 ## Tech Stack
